@@ -12,9 +12,8 @@ So lets go to posts, you can see bunch of objects here, in a web application, we
 
 So when we hit “https://jsonplaceholder.typicode.com/..." we will get the response as we see here.
 
+## Youtube:
+https://youtu.be/YAKGJM_DifE
 
 ## External Links:
 https://jsonplaceholder.typicode.com/
-
-## Youtube:
-https://youtu.be/YAKGJM_DifE
