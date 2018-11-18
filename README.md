@@ -1,27 +1,19 @@
 # AngularHttpExample
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
+In modern web applications, we definitely need a bunch of HTTP services on the server.
+And we make use of this services to fetch or save data to it.
 
-## Development server
+I am gonna show you how to build a fake HTTP Services and we gonna use a backend for our services.
+Todo that, let’s head over to jsonplaceholder.typicode.com.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+So when you scroll down, you can see various HTTP end points so we have posts, comments, albums, todos, as such.
 
-## Code scaffolding
+So lets go to posts, you can see bunch of objects here, in a web application, we will be making use of these json objects to display data that is returned from server end points.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+So when we hit “https://jsonplaceholder.typicode.com/..." we will get the response as we see here.
 
-## Build
+## Youtube:
+https://youtu.be/YAKGJM_DifE
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## External Links:
+https://jsonplaceholder.typicode.com/
